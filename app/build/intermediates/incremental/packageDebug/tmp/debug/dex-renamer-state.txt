@@ -1,0 +1,4 @@
+#Tue May 01 00:13:46 CEST 2018
+base.0=G\:\\My Documents\\First Year ELTE\\Second Semester\\Software Quality & Test\\Android Testing\\temperature-converter-android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
